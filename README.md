@@ -1,6 +1,10 @@
 >ESP32-CAM Smart Security Camera with PIR Motion Detection & Telegram Alerts
 This is a DIY smart security camera system using an ESP32-CAM module and a PIR motion sensor (HC-SR501). When motion is detected, the ESP32-CAM takes a photo and sends it to your Telegram bot. You can also access the live stream from the camera over Wi-Fi.
 
+<img width="687" height="92" alt="Ekran görüntüsü 2026-11-09 205409" src="https://github.com/user-attachments/assets/b59a4753-2a37-4b76-9f6f-62c2e83d432a" />
+
+
+
 >Features
 Detects motion using PIR sensor
 
