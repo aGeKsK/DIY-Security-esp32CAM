@@ -3,7 +3,7 @@ This is a DIY smart security camera system using an ESP32-CAM module and a PIR m
 
 <img width="687" height="92" alt="Ekran görüntüsü 2026-11-09 205409" src="https://github.com/user-attachments/assets/b59a4753-2a37-4b76-9f6f-62c2e83d432a" />
 
-
+(buradan temim edebilirsin dosyaları) https://github.com/espressif/arduino-esp32/tree/master/libraries/ESP32/examples/Camera/CameraWebServer
 
 >Features
 Detects motion using PIR sensor
